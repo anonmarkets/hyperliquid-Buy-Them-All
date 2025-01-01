@@ -1,0 +1,5 @@
+{
+    "comments": "If you are using an Agent/API Wallet you MUST also specify the public address of your account, not the address of the Agent/API Wallet. Otherwise, leave it blank and it will be automatically derived from the secret key.",
+    "secret_key": "secret_key",
+    "account_address": "wallet_address"
+}
